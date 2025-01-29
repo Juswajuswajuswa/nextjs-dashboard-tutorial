@@ -1,6 +1,7 @@
 import React, { ReactNode } from "react";
 import SideNav from "../ui/dashboard/sidenav";
 
+
 type LayoutProps = {
   children: ReactNode;
 };
